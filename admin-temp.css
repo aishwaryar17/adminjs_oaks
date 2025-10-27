@@ -1,0 +1,4 @@
+
+      [data-css*="TableHeaderCell"] { white-space: nowrap !important; text-align: center !important; vertical-align: middle !important; }
+      [data-css*="TableHeaderCell"] span { display: inline-block !important; transform: none !important; writing-mode: horizontal-tb !important; white-space: normal !important; }
+    
